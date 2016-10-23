@@ -1,0 +1,3 @@
+rootProject.name = 'RNScrollView'
+
+include ':app'
